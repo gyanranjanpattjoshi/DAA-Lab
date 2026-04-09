@@ -5,4 +5,4 @@ developed as part of the Design and Analysis of Algorithms lab.
 
 Program: Knight Moves BFS
 Language: Java
-Algorithm Used: Breadth First Search (BFS)
+Algorithm Used: Breadth First Search (BFS).
